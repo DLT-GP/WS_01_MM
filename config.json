@@ -30,19 +30,19 @@
         },
         "Eurostreaming": {
             "url": "https://eurostream.ing",
-            "enabled": "0",
+            "enabled": "1",
             "ES_ForwardProxy": "0",
             "ES_PROXY": "0"
         },
         "Guardaflix": {
             "url": "https://guardaplay.live",
-            "enabled": "0",
+            "enabled": "1",
             "GF_ForwardProxy": "0",
             "GF_PROXY": "0"
         },
         "Guardoserie": {
             "url": "https://guardoserie.run",
-            "enabled": "0",
+            "enabled": "1",
             "GO_ForwardProxy": "0",
             "GO_PROXY": "0"
         },
@@ -54,25 +54,25 @@
         },
         "Realtime": {
             "url": "https://realtime.it",
-            "enabled": "0",
+            "enabled": "1",
             "RT_ForwardProxy": "0",
             "RT_PROXY": "0"
         },
         "Toonitalia": {
             "url": "https://toonitalia.xyz",
-            "enabled": "0",
+            "enabled": "1",
             "TI_ForwardProxy": "0",
             "TI_PROXY": "0"
         },
         "OnlineSerieTV": {
             "url": "https://onlineserietv.lol",
-            "enabled": "0",
+            "enabled": "1",
             "OST_ForwardProxy": "0",
             "OST_PROXY": "0"
         },
         "Vidxgo": {
             "url": "https://v.vidxgo.co",
-            "enabled": "0",
+            "enabled": "1",
             "VD_ForwardProxy": "0",
             "VD_PROXY": "0"
         }
