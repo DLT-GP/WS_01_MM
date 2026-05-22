@@ -17,7 +17,7 @@
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserie.you",
+            "url": "https://guardaserie.you/",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "0"
